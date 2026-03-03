@@ -1,7 +1,7 @@
 # MKVToolNix – Matroska Video Editor
 
 <p align="center">
-  <img src="https://static.macupdate.com/products/16837/m/mkvtoolnix-logo.png?v=1668489496" width="200" alt="MKVToolNix icon"/>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/mkvtoolnix.webp" width="200" alt="MKVToolNix icon"/>
 </p>
 
 <p align="center">
@@ -43,7 +43,7 @@ Workflow automation through command-line interface enables automation and script
 ---
 
 <p align="center">
-  <img src="https://mkvtoolnix.org/wp-content/uploads/2024/10/mkvtoolnix-1-screenshot.png" alt="MKVToolNix screenshot"/>
+  <img src="https://mac-cdn.softpedia.com/screenshots/MKVtoolnix_1.png" alt="MKVToolNix screenshot"/>
 </p>
 
 ---
